@@ -8,7 +8,8 @@
   "scripts": {
     "dev": "bun --hot run server.ts",
     "dev:inspect": "bun --inspect server.ts",
-    "dev:watch": "bun run --watch server.ts"
+    "dev:watch": "bun run --watch server.ts",
+    "start": "bun run server.ts"
   },
   "dependencies": {
     "express": "^4.18.2"
