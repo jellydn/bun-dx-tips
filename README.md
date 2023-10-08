@@ -182,6 +182,19 @@ In the root `package.json`, the `workspaces` key specifies the subdirectories to
 - [Performance Best Practices Using Express in Production](https://expressjs.com/en/advanced/best-practice-performance.html#set-node_env-to-production)
 - [Working on Multiple Web Projects with Docker Compose and Traefik | gpk blog](https://georgek.github.io/blog/posts/multiple-web-projects-traefik/)
 
+## Author
+
+👤 **Huynh Duc Dung**
+
+- Website: https://productsway.com/
+- Twitter: [@jellydn](https://twitter.com/jellydn)
+- Github: [@jellydn](https://github.com/jellydn)
+
 ## 🙏 Show Your Support
 
 If you found this project helpful, consider giving it a ⭐️!
+
+[![kofi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/dunghd)
+[![paypal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/dunghd)
+[![buymeacoffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/dunghd)
+
