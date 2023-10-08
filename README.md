@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to bun-tips 👋</h1>
+<h1 align="center">Welcome to bun-dx-tips 👋</h1>
 <p>
   A collection of simple tips for optimizing your experience with Bun. This repository encapsulates practical snippets, configurations, and insights to make your Bun projects more efficient and enjoyable.
 </p>
@@ -181,6 +181,7 @@ In the root `package.json`, the `workspaces` key specifies the subdirectories to
 - [Workspaces – Package manager | Bun Docs](https://bun.sh/docs/install/workspaces)
 - [Performance Best Practices Using Express in Production](https://expressjs.com/en/advanced/best-practice-performance.html#set-node_env-to-production)
 - [Working on Multiple Web Projects with Docker Compose and Traefik | gpk blog](https://georgek.github.io/blog/posts/multiple-web-projects-traefik/)
+- [Bun playlist on my channel](https://www.youtube.com/playlist?list=PLOdXIcVPTyB91lDwMvH68QdxyMMKzgQLC)
 
 ## Author
 
