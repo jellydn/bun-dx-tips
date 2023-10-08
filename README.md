@@ -177,6 +177,7 @@ In the root `package.json`, the `workspaces` key specifies the subdirectories to
 - [Environment variables – Runtime | Bun Docs](https://bun.sh/docs/runtime/env)
 - [Debugging Bun with the web debugger | Bun Examples](https://bun.sh/guides/runtime/web-debugger)
 - [Workspaces – Package manager | Bun Docs](https://bun.sh/docs/install/workspaces)
+- [Performance Best Practices Using Express in Production](https://expressjs.com/en/advanced/best-practice-performance.html#set-node_env-to-production)
 
 ## 🙏 Show Your Support
 
