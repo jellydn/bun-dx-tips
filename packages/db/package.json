@@ -1,0 +1,12 @@
+{
+	"name": "@productsway/db",
+	"type": "module",
+	"module": "index.ts",
+	"private": true,
+	"dependencies": {
+		"@productsway/logger": "workspace:*"
+	},
+	"peerDependencies": {
+		"typescript": "^5.0.0"
+	}
+}
