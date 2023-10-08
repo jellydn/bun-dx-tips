@@ -3,6 +3,8 @@
   A collection of simple tips for optimizing your experience with Bun. This repository encapsulates practical snippets, configurations, and insights to make your Bun projects more efficient and enjoyable.
 </p>
 
+[![IT Man - A Dive into Environment Variables, Debugging, and Workspaces with Bun [Vietnamese]](https://i.ytimg.com/vi/BxmuOe1eFOo/hqdefault.jpg)](https://www.youtube.com/watch?v=BxmuOe1eFOo)
+
 ## Table of Contents
 
 - [Environment Variables](#environment-variables)
