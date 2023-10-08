@@ -1,0 +1,12 @@
+{
+  "name": "@productsway/logger",
+  "type": "module",
+  "module": "index.ts",
+  "private": true,
+  "dependencies": {
+    "pino": "^8.15.6"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
