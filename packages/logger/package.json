@@ -4,7 +4,7 @@
   "module": "index.ts",
   "private": true,
   "dependencies": {
-    "pino": "8.17.0"
+    "pino": "8.17.1"
   },
   "peerDependencies": {
     "typescript": "^5.0.0"
