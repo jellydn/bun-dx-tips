@@ -12,7 +12,7 @@
     "start": "bun run server.ts"
   },
   "dependencies": {
-    "close-with-grace": "2.4.0",
+    "close-with-grace": "2.5.0",
     "express": "4.22.1"
   },
   "devDependencies": {
